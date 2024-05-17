@@ -3,8 +3,8 @@ import base64
 import json
 
 # Create a dashboard on Spotify and name it. In this dashboard, you will find the client ID and the client secret.
-client_id = "b7120549cce44e67bef7fe55d0fa0058" # change it to you own id  
-client_secret = "b7a04a1569c14e59ae4bdddcfc23f8b5" # change it to you own secret  
+client_id = "" # change it to you own id  
+client_secret = "" # change it to you own secret  
 
 def get_token():
     """
